@@ -1,6 +1,5 @@
 # Brain-Tumor-Classification-and-Segmentation-main
 
-Brain-Tumor-Classification-and-Segmentation
 Title: Integrated Brain Tumor Classification and Segmentation using Custom CNN Architectures and Transfer Learning
 
 Dataset Used: https://figshare.com/articles/dataset/brain_tumor_dataset/1512427
